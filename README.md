@@ -1,0 +1,2 @@
+# notion-journal-quickadd-mac
+MacのショートカットからNotionのJournalデータベース（In progress）に一行テキストを素早く追記できる自動化スクリプト
